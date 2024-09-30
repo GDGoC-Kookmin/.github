@@ -16,8 +16,8 @@ GDG on Campus Kookmin University focuses on:
 - **Make an Impact**: Use your skills to solve real-world problems and contribute to your local community.
 
 ## How to Get Involved 🚀
-1. **Follow Us** on our [social media](#).
-2. **Join Our Events** - Check out our upcoming events on the [GDG platform](#).
+1. **Follow Us** on our [instagram](https://www.instagram.com/gdg.kmu/).
+2. **Join Our Events** - Check out our upcoming events on the [GDG platform](https://gdg.community.dev/gdg-on-campus-kookmin-university-seoul-south-korea/).
 3. **Contribute** - Get involved by contributing to our GitHub projects, sharing ideas, and participating in discussions.
 
 ## Contact Us 💬
