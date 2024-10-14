@@ -22,3 +22,5 @@ GDG on Campus Kookmin University focuses on:
 
 ## Contact Us 💬
 For any questions or collaboration opportunities, feel free to reach out via [email](mailto:gdg.kookmin@gmail.com).
+
+join us!
