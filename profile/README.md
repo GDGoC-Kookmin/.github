@@ -1,26 +1,24 @@
-# Welcome to GDG on Campus - Kookmin University 🌐
+# GDG on Campus - Kookmin University 🌐
 
-Welcome to the **Google Developer Groups (GDG) on Campus - Kookmin University Chapter**! We are a community of passionate students and tech enthusiasts dedicated to learning, building, and sharing knowledge about cutting-edge technologies.
+**GDG on Campus (GDGoC) - Kookmin University**는 기술을 배우고 함께 성장하는 국민대학교 학생 개발자 커뮤니티입니다.🧑‍🎓
 
-## What We Do 🛠️
-GDG on Campus Kookmin University focuses on:
-- **Workshops** and **Hackathons** on AI, cloud computing, web, and mobile development.
-- **Collaborative Projects** where students work together to build real-world applications.
-- **Tech Talks** featuring industry experts and Google Developer Experts (GDEs).
-- **Study Jams** to help members prepare for certification exams and technical challenges.
+## 주요 활동 🛠️
+- **워크숍 & 프로젝트 & 해커톤**: AI, 클라우드, 웹/모바일 개발 등
+- **협업 프로젝트**: 함께 실습하며 실전 기술 익히기  
+- **Tech Talks!**: 업계 전문가 및 GDE 초청 강연
+- **스터디 잼**: 자격증 대비 및 기술 스터디  
 
-## Why Join Us? 🌱
-- **Networking Opportunities**: Connect with like-minded individuals, professionals, and Google mentors.
-- **Skill Development**: Grow your skills in a wide range of technologies through workshops and projects.
-- **Google Resources**: Access to exclusive training materials, toolkits, and expert interactions.
-- **Make an Impact**: Use your skills to solve real-world problems and contribute to your local community.
+## 참여 혜택 🌱
+- **네트워킹**: Google 멘토 및 다양한 인재와의 교류
+- **기술 성장**: 실습과 프로젝트를 통한 역량 강화
+- **Google 리소스**: 독점 자료와 전문가와의 소통 기회  
+- **사회적 기여**: 기술로 문제 해결 및 커뮤니티 발전  
 
-## How to Get Involved 🚀
-1. **Follow Us** on our [instagram](https://www.instagram.com/gdg.kmu/).
-2. **Join Our Events** - Check out our upcoming events on the [GDG platform](https://gdg.community.dev/gdg-on-campus-kookmin-university-seoul-south-korea/).
-3. **Contribute** - Get involved by contributing to our GitHub projects, sharing ideas, and participating in discussions.
+## 참여 방법 🚀
+1. **[Instagram](https://www.instagram.com/gdg.kmu/)** 팔로우 및 분기별 모집 공고 참조!
+2. **[이벤트](https://gdg.community.dev/gdg-on-campus-kookmin-university-seoul-south-korea/)** 참여  
 
-## Contact Us 💬
-For any questions or collaboration opportunities, feel free to reach out via [email](mailto:gdg.kookmin@gmail.com).
+## 문의 💬
+궁금한 점은 [이메일](mailto:gdg.kookmin@gmail.com)!.
 
-join us!
+함께 성장해요! 🚀
