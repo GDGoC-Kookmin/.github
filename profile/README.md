@@ -15,10 +15,10 @@
 - **사회적 기여**: 기술로 문제 해결 및 커뮤니티 발전  
 
 ## 참여 방법 🚀
-1. **[Instagram](https://www.instagram.com/gdg.kmu/)** 팔로우 및 분기별 모집 공고 참조!
-2. **[이벤트](https://gdg.community.dev/gdg-on-campus-kookmin-university-seoul-south-korea/)** 참여  
+1. **[Instagram @gdg.kmu](https://www.instagram.com/gdg.kmu/)** 팔로우 및 분기별 모집 공고 참조!
+2. **[GDG community](https://gdg.community.dev/gdg-on-campus-kookmin-university-seoul-south-korea/)**
 
 ## 문의 💬
-궁금한 점은 [이메일](mailto:gdg.kookmin@gmail.com)!.
+궁금한 점은 [gdg.kookmin@gmail.com](mailto:gdg.kookmin@gmail.com) 문의!.
 
 함께 성장해요! 🚀
